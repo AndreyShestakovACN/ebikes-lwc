@@ -21,10 +21,10 @@
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>test-yypfaowt42yo@example.com</siteAdmin>
+    <siteAdmin>targetorg@gearset-test-target-2021-12-14.com.test</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >test-yypfaowt42yo@example.com</siteGuestRecordDefaultOwner>
+    >targetorg@gearset-test-target-2021-12-14.com.test</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>efficiency-connect-1801-dev--1701a0bb7eb</subdomain>
+    <subdomain>e-bikes-2021-12-16-developer-edition</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
